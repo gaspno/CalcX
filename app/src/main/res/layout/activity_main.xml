@@ -246,10 +246,10 @@
                 />
             <Button
 
-                android:id="@+id/btn."
+                android:id="@+id/btnDot"
                 android:layout_height="80dp"
                 android:layout_width="wrap_content"
-                android:text="-"
+                android:text="."
                 android:textSize="30sp"
                 android:textColor="@color/black"
                 android:backgroundTint="@color/white"
